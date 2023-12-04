@@ -2,7 +2,7 @@
 
 - 🚀 DevOps / Cloud Engineer
 - 💻 Passionate about automation and continuous improvement
-- 🌱 Currently learning [Ansible | Kubernetes | Terraform | CloudFormation]
+- 🌱 Currently learning [Kubernetes | Terraform | CloudFormation]
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chinemelum-udeh/)
 - :rocket: Checkout my DevOps project [DevOps](https://github.com/udehgoodness/devops)
 

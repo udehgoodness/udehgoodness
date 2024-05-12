@@ -1,8 +1,8 @@
 # Hello, I'm Chinemelum Goodness Udeh! 👋
 
-- 🚀 DevOps / Cloud Engineer
+- 🚀 DevSecOps | DevOps | Cloud Engineer
 - 💻 Passionate about automation and continuous improvement
-- 🌱 Currently learning [Kubernetes | Terraform | CloudFormation]
+- 🌱 Currently learning [DevSecOps | Kubernetes | Terraform | CloudFormation]
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chinemelum-udeh/)
 - :rocket: Checkout my DevOps project [DevOps](https://github.com/udehgoodness?tab=repositories)
 

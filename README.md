@@ -2,7 +2,7 @@
 
 - 🚀 DevSecOps | DevOps | Cloud Engineer
 - 💻 Passionate about automation and continuous improvement
-- 🌱 Currently learning [DevSecOps | Kubernetes | Terraform | CloudFormation]
+- 🌱 Currently learning [LLM Engineering | GENAI | Kubernetes | Terraform | CloudFormation]
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chinemelum-udeh/)
 - :rocket: Checkout my DevOps project [DevOps](https://github.com/udehgoodness?tab=repositories)
 -  :rocket: Checkout my DevSecOps project [DevSecOps](https://github.com/udehgoodness?tab=repositories)

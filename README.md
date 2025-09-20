@@ -1,6 +1,6 @@
 # Hello, I'm Chinemelum Goodness Udeh! 👋
 
-- 🚀 DevSecOps | DevOps | Cloud Security |Cloud Engineer
+- 🚀 DevSecOps | DevOps | Cloud Security | Cloud Engineer
 - 💻 Passionate about security, automation and continuous improvement
 - 🌱 Currently learning [LLM Engineering | GENAI | Kubernetes | Terraform | CloudFormation]
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chinemelum-udeh/)
